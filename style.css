@@ -5,6 +5,7 @@ body{
 .color-yellow{
     color: #e74c3c;
 }
+
 h1{
     font-size: 45px;
 }
@@ -39,19 +40,19 @@ h1{
     padding-bottom: 50px;
 }
 #card-1{
-    background-color: cornflowerblue;
+    background-color: rgb(124, 155, 211);
     border-radius: 15px;
     padding: 10px 10px 10px 10px;
     margin-right: 25px;
 }
 #card-2{
-    background-color: darksalmon;
+    background-color: rgb(235, 151, 123);
     border-radius:15px ;
     padding: 10px 10px 10px 10px;
     margin-right: 25px;
 }
 #card-3{
-    background-color: #d63031;
+    background-color: #fa8585;
     border-radius:15px ;
     padding: 10px 10px 10px 10px;
     margin-right: 25px;
@@ -86,4 +87,8 @@ h1{
 }
 #redius{
     border-radius: 10%;
+}
+.st-border{
+    border-left: 6px solid palevioletred;
+    border-radius: 5px;
 }
