@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.color-yellow{
+    color: #e74c3c;
+}
+h1{
+    font-size: 45px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #f199b8;
+    padding: 10px 45px;
+    border-radius: 5%;
+    color: black;
+}
+.flexible-item{
+    display: flex;
+    margin-bottom: 100px;
+}
+.width-adjustment{
+    width: 50%;
+    padding-left: 5%;
+}
+.width-adjustment img{
+    width: 78%;
+}
+.text-align{
+    text-align: center;
+}
+.img-resize{
+    width: 35%;
+}
+#back{
+    background-color: palevioletred;
+    padding: 10px 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#card-1{
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    padding: 10px 10px 10px 10px;
+    margin-right: 25px;
+}
+#card-2{
+    background-color: darksalmon;
+    border-radius:15px ;
+    padding: 10px 10px 10px 10px;
+    margin-right: 25px;
+}
+#card-3{
+    background-color: #d63031;
+    border-radius:15px ;
+    padding: 10px 10px 10px 10px;
+    margin-right: 25px;
+}
+.parent{
+    display: flex;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-right: 15px;
+    background-position: fixed;
+}
+.justify{
+    text-align:initial;
+}
+.adjust{
+    width: 70%;
+}
+.flexible{
+    display: flex;
+    width: 70%;
+    margin-left: 75px;
+}
+#sp{
+    width: 65%;
+}
+.change-color{
+    color: #4cd137;
+}
+.center{
+    text-align: center;
+}
+#redius{
+    border-radius: 10%;
+}
